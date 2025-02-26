@@ -6,7 +6,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lunok)
 
 - 👀 I’m interested in web development & technologies
-- 📫 You can have a talk with me on Linkedin or even here!
+- 📫 You can have a talk with me on Linkedin!
 
 <!---
 Lunok/Lunok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
